@@ -1,0 +1,19 @@
+type,type symbol,type char,type num
+boolean,`boolean,B,1h
+guid,`guid,G,2h
+byte,`byte,X,4h
+short,`short,H,5h
+int,`int,I,6h
+long,`long,J,7h
+real,`real,E,8h
+float,`float,F,9h
+char,`char,C,10h
+symbol,`,S,11h
+timestamp,`timestamp,P,12h
+month,`month,M,13h
+date,`date,D,14h
+datetime,`datetime,Z,15h
+timespan,`timespan,N,16h
+minute,`minute,U,17h
+second,`second,V,18h
+time,`time,T,19h
